@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Amd Djf
+MAINTAINER Amd_Djf
 
 LABEL version="1.0"
 LABEL description="Apache 2 / PHP"
